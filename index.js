@@ -24,7 +24,9 @@ function johnLennonFacts(facts) {
   const shoutedFacts = [];
   
   i = 0
-  while ()
+  while (i < facts.length) {
+    
+  }
 }
 
 

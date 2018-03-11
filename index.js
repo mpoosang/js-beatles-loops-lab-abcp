@@ -23,11 +23,12 @@ const facts = [
 function johnLennonFacts(facts) {
   const shoutedFacts = [];
   
-  i = 0;
+  let i = 0;
   while (i < facts.length) {
     shoutedFacts.push(`${facts[i]}!!!`);
     i++;
   }
   return shoutedFacts;
 }
+
 

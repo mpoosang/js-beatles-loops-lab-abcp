@@ -20,4 +20,6 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-function johnLennonFacts
+function johnLennonFacts(facts) {
+  const shoutedFacts
+}

@@ -21,5 +21,6 @@ const facts = [
 ];
 
 function johnLennonFacts(facts) {
-  const shoutedFacts
+  const shoutedFacts = [];
+  
 }

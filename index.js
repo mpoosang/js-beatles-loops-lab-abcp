@@ -13,3 +13,4 @@ for (let i = 0, l = musicians.length; i < l; i++) {
 }
 
 
+function johnLennonFacts

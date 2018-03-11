@@ -1,13 +1,11 @@
 function theBeatlesPlay(musicians, instruments) {
-  const arr = []
+  const arr = [];
   
-  for(i = 0; l = musicians.length; i++) {
-  console.log(name)
-  }
-}  
-    for (let i = 0, l = musicians.length; i < l; i++) {
-    arr.push(`${musicians[i]} plays ${instruments[i]}`)
+for (let i = 0, l = musicians.length; i < l; i++) {
+    arr.push(`${musicians[i]} plays ${instruments[i]}`);
   }
 
-  return arr
+  return arr;
 }
+
+

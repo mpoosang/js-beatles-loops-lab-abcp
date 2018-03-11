@@ -23,7 +23,8 @@ const facts = [
 function johnLennonFacts(facts) {
   const shoutedFacts = [];
   
-  
+  i = 0
+  while ()
 }
 
 
